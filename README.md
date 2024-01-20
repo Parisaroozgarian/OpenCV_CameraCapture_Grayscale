@@ -72,3 +72,5 @@ cv2.destroyAllWindows()
 ```
 All OpenCV windows are closed using `cv2.destroyAllWindows()`.
 
+This code essentially captures video from the default camera, sets custom frame dimensions, converts each frame to grayscale, and displays it in a window. The loop continues until the 'q' key is pressed, and then the program releases resources and closes windows.
+
