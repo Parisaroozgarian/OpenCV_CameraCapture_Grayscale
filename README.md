@@ -1,5 +1,4 @@
 # OpenCV CameraCapture Grayscale
-Certainly! Let's break down the code step by step:
 
 ### Step 1: Import OpenCV Library
 ```python
