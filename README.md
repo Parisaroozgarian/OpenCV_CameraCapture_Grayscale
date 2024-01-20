@@ -1,1 +1,1 @@
-# Simple-Camera-Capture
+# OpenCV_CameraCapture_Grayscale
